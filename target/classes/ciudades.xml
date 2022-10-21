@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ciudades>
+    <ciudad pais="Italia">Roma</ciudad>
+    <ciudad pais="Francia">París</ciudad>
+    <ciudad pais="Alemania">Berlín</ciudad>
+    <ciudad pais="España">Madrid</ciudad>
+</ciudades>
